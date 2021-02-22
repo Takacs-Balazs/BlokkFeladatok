@@ -1,0 +1,21 @@
+p {
+    padding: 4mm;
+    border-radius: 10px;
+    border: 2px solid blue;
+    width: 60%;
+    margin:auto
+}
+
+
+span {
+padding: 5px;
+margin: 10px;
+background-color: orange;
+border-radius: 10px;
+float:left
+
+}
+
+body {
+    background-color: gray;
+}
